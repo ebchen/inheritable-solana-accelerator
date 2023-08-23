@@ -717,14 +717,14 @@ class Reader extends Component {
                     type="submit"
                     onClick={() => this.connect()}
                   >
-                    1. Click to Connect Wallet
+                    1. Sign Message
                   </button>
                   <button
                     className="text-left font-DMSans font-bold px-5 py-2.5 mx-2 text-2xl text-slate-100 bg-zinc-700 hover:bg-zinc-600 rounded-md shadow"
                     type="submit"
                     onClick={() => this.readClaim()}
                   >
-                    2. Click to Retrieve Your Claim
+                    2. Reveal Your Claim
                   </button>
                 </div>
               )}

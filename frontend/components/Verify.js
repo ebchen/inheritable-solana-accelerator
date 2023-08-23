@@ -610,7 +610,7 @@ class Verify extends Component {
                   type="submit"
                   onClick={() => this.connect()}
                 >
-                  1. Connect Wallet
+                  1. Sign Message
                 </button>
                 &nbsp;
                 {/* <button

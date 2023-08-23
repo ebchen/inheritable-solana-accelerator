@@ -193,14 +193,14 @@ class Writer extends Component {
                   type="submit"
                   onClick={() => this.connect()}
                 >
-                  1. Connect Wallet
+                  1. Sign Message
                 </button>
                 <button
                   className="text-left font-DMSans font-bold px-5 py-2.5 mx-2 mt-4 text-2xl text-slate-100 bg-zinc-700 hover:bg-zinc-600 rounded-md shadow"
                   type="submit"
                   onClick={() => this.write()}
                 >
-                  2. Sign Will
+                  2. Enscribe Will
                 </button>
               </div>
 
